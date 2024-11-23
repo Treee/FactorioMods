@@ -1,0 +1,9 @@
+{
+  "name": "statistics-signals",
+  "version": "0.1.0",
+  "title": "Statistics Signals",
+  "author": "ItsATreee",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"],
+  "description": "This mod adds virtual signals for the factory production/consumption statistics for circuit conditions."
+}

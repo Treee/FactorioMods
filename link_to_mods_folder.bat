@@ -1,0 +1,1 @@
+mklink /J "C:\Users\Tree\AppData\Roaming\Factorio\mods\statistics-signals" Z:\FactorioMods\statistics-signals
